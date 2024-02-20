@@ -19,4 +19,7 @@ El m√≥dulo ESP01S es ampliamente utilizado en proyectos de IoT debido a su tama√
 git clone https://github.com/rampa069/ESP01S-AT-firmware-recovery.git
 ```
 2. Instala la utilidad esptool.py
-3. Ejecuta el script **rescue.sh**
+3. Ajusta la variable de entorno PORT en el script
+4. Ejecuta el script **rescue.sh**
+
+
